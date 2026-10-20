@@ -21,7 +21,7 @@
 - `docs/` 只放 Markdown 笔记，一个主题一个文件，**文件名不写日期**
 - `src/main/java/study/<主题>/` 放可运行的示例代码，包名与 `docs/` 编号一一对应
 - `src/test/java/study/` 放 JUnit 5 测试
-- `assets/` 放笔记用到的图片
+- 笔记里的图片放在该章节目录的 `images/` 下，用**相对路径**引用
 
 ## 环境
 

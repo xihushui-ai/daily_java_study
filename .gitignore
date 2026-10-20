@@ -1,0 +1,23 @@
+# 编译输出
+out/
+target/
+build/
+bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 其他 IDE / 系统
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时与日志
+*.log
+*.tmp
+*.hprof

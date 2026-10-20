@@ -3,7 +3,7 @@ package study.basics;
 import java.util.Scanner;
 
 /**
- * 用 switch 根据输入的面试结果决定吃什么。
+ * 用 switch 根据输入的字符串决定吃什么。
  */
 public class SwitchDemo {
 
